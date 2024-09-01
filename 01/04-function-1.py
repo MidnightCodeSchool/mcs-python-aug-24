@@ -1,0 +1,5 @@
+# Function (builtins)
+## print()
+print("5")
+## type()
+print(type(5))
