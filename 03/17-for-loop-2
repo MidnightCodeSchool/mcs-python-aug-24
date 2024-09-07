@@ -1,0 +1,4 @@
+some_string = "Hello, World!"
+
+for i in some_string:
+    print(i)
